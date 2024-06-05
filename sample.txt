@@ -1,0 +1,6 @@
+Create an account in Github or you can use your already created account and create a new repository.
+Create a development branch and try running some basic git commands git pull, fetch, push..etc
+
+Prepare a declarative pipeline which contain stages with post block at end of the pipeline. (Source, build, deploy)
+
+Once declarative pipeline is created push the script in repository which is created in github.
