@@ -4,3 +4,6 @@ Create a development branch and try running some basic git commands git pull, fe
 Prepare a declarative pipeline which contain stages with post block at end of the pipeline. (Source, build, deploy)
 
 Once declarative pipeline is created push the script in repository which is created in github.
+
+
+changing
